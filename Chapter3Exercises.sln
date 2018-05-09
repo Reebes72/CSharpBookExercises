@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven3.24", "OddOrEven3.24\OddOrEven3.24.csproj", "{A131B61C-298A-4E66-BC3D-73B316FC9449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOrEven3.24", "OddOrEven3.24\OddOrEven3.24.csproj", "{A131B61C-298A-4E66-BC3D-73B316FC9449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiples3.25", "Multiples3.25\Multiples3.25.csproj", "{6C6553D7-ACA4-4951-9E7C-B3F6D982D761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiples3.25", "Multiples3.25\Multiples3.25.csproj", "{6C6553D7-ACA4-4951-9E7C-B3F6D982D761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiameterCircumferenceandAreaOfACircle3.26", "DiameterCircumferenceandAreaOfACircle3.26\DiameterCircumferenceandAreaOfACircle3.26.csproj", "{E693E1F4-1E94-48F7-A327-F1D3A024C6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiameterCircumferenceandAreaOfACircle3.26", "DiameterCircumferenceandAreaOfACircle3.26\DiameterCircumferenceandAreaOfACircle3.26.csproj", "{E693E1F4-1E94-48F7-A327-F1D3A024C6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerEquivalentOfACharacter3.27", "IntegerEquivalentOfACharacter3.27\IntegerEquivalentOfACharacter3.27.csproj", "{C6182FF2-A288-4844-8CAF-3DCDD09A7317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerEquivalentOfACharacter3.27", "IntegerEquivalentOfACharacter3.27\IntegerEquivalentOfACharacter3.27.csproj", "{C6182FF2-A288-4844-8CAF-3DCDD09A7317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsOfAnInteger3.28", "DigitsOfAnInteger3.28\DigitsOfAnInteger3.28.csproj", "{FA6A6901-1CC5-4959-9E89-92A317B48FA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitsOfAnInteger3.28", "DigitsOfAnInteger3.28\DigitsOfAnInteger3.28.csproj", "{FA6A6901-1CC5-4959-9E89-92A317B48FA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableOfSquaresAndCubes3.29", "TableOfSquaresAndCubes3.29\TableOfSquaresAndCubes3.29.csproj", "{1628011E-BB43-414B-86D0-D92093A16211}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableOfSquaresAndCubes3.29", "TableOfSquaresAndCubes3.29\TableOfSquaresAndCubes3.29.csproj", "{1628011E-BB43-414B-86D0-D92093A16211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingNegativePositiveandZeroValues3.30", "CountingNegativePositiveandZeroValues3.30\CountingNegativePositiveandZeroValues3.30.csproj", "{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1628011E-BB43-414B-86D0-D92093A16211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1628011E-BB43-414B-86D0-D92093A16211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1628011E-BB43-414B-86D0-D92093A16211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
