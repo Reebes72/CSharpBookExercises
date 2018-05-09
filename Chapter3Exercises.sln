@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableOfSquaresAndCubes3.29"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingNegativePositiveandZeroValues3.30", "CountingNegativePositiveandZeroValues3.30\CountingNegativePositiveandZeroValues3.30.csproj", "{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyMassIndexCalculator3.31", "BodyMassIndexCalculator3.31\BodyMassIndexCalculator3.31.csproj", "{4502B9FC-3943-4516-9FC6-F7672EE7937A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7D6F63F-4CD3-4092-989E-95E09D1F96DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4502B9FC-3943-4516-9FC6-F7672EE7937A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4502B9FC-3943-4516-9FC6-F7672EE7937A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4502B9FC-3943-4516-9FC6-F7672EE7937A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4502B9FC-3943-4516-9FC6-F7672EE7937A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
